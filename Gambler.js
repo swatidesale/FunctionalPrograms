@@ -5,7 +5,7 @@
  *
  */
 var readline = require('readline');
-var common = require('/home/bridgeit/Desktop/Swati/Utility/utility.js');
+var common = require('./utility.js');
 
 var read1 = readline.createInterface({
     input: process.stdin,
